@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Formulário</h1>
-    <img src="http://img.shields.io/static/v1?label=CSS3&message=ES6&color=yellow&style=for-the-badge&logo=CSS3"/>
-    <img src="http://img.shields.io/static/v1?label=HTML5&message=ES6&color=yellow&style=for-the-badge&logo=HTML5"/>
-    <img src="http://img.shields.io/static/v1?label=LICENSE-MIT&message=ES6&color=yellow&style=for-the-badge&logo=LICENSE-MIT"/> 
+  <img src="http://img.shields.io/static/v1?label=JavaScript&message=ESC6&color=yellow&style=for-the-badge&logo=JavaScript"/>
+    <img src="http://img.shields.io/static/v1?label=CSS3&message=3&color=yellow&style=for-the-badge&logo=CSS3"/>
+    <img src="http://img.shields.io/static/v1?label=HTML5&message=5&color=yellow&style=for-the-badge&logo=HTML5"/>
+    <img src="http://img.shields.io/static/v1?label=LICENSE-MIT&message=License&color=yellow&style=for-the-badge&logo=LICENSE-MIT"/> 
     <br>
 <p>Este projeto utiliza JavaScript para implementar a interação com botões. Ao clicar em um botão, a cor da página muda automaticamente para a cor correspondente descrita no botão.</p>
 <p>Desenvolvido por <a target="_blank" rel="external" href="https://github.com/MegMinnie/"><strong>Mirele Oliveira da Silva</strong></a>
